@@ -8,7 +8,7 @@ import static org.junit.Assert.assertThat;
 
 public class QueryProcessorTest {
 
-    QueryProcessor queryProcessor = new QueryProcessor();
+//    QueryProcessor queryProcessor = new QueryProcessor();
 
     @Test
     public void returnsEmptyStringIfCannotProcessQuery() throws Exception {
